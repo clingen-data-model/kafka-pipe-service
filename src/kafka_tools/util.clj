@@ -1,4 +1,4 @@
-(ns kafka-pipe-service.util
+(ns kafka-tools.util
   (:require [clojure.string :as s])
   (:gen-class))
 

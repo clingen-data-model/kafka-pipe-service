@@ -1,5 +1,5 @@
-(ns kafka-pipe-service.config
-  (:require [kafka-pipe-service.util :as util])
+(ns kafka-tools.kafka-pipe-service.config
+  (:require [kafka-tools.util :as util])
   (:gen-class))
 
 (def log-level :debug)

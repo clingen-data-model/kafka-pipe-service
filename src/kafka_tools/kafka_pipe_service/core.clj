@@ -1,4 +1,4 @@
-(ns kafka-pipe-service.core
+(ns kafka-tools.kafka-pipe-service.core
   (:require [cli-matic.core :as cli]
             [cheshire.core :as json]
             [jackdaw.client :as jc]

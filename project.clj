@@ -9,7 +9,7 @@
                  [cli-matic "0.4.3"]
                  [cheshire "5.10.0"]
                  ]
-  :main ^:skip-aot kafka-pipe-service.core
+  :main ^:skip-aot kafka-tools.topic-manipulation.topic
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all
                        :uberjar-name "kafka-pipe-service.jar"}}
